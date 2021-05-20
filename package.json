@@ -1,0 +1,19 @@
+{
+  "name": "nl.festivalplezier",
+  "version": "1.0.0",
+  "description": "Feesten tot het niet meer kan",
+  "main": "app.js",
+  "scripts": {
+    "test": "testing123"
+  },
+  "keywords": [
+    "Feesten",
+    "tot",
+    "het",
+    "niet",
+    "meer",
+    "kan"
+  ],
+  "author": "Walid Essakouri",
+  "license": "ISC"
+}
